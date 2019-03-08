@@ -21,6 +21,7 @@ Symlinks all files in this directory in the `boostrap.sh` into your home folder.
 4. Install `homebrew` (your favorite package manager)
     - Run `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` in your Terminal
     - More can be found [here](https://brew.sh/)
+    - If you ever need for information on hombrew itself [this](https://dev.to/code2bits/homebrew---basics--cheatsheet-3a3n) guide is pretty cool
 5. Clone this repository
     - `cd` into a folder next to your home `~` e.g. `~/Development` (maybe create if it doesn't exist)
     - Run `git clone https://github.com/SarahGrosche/dotfiles.git` there
